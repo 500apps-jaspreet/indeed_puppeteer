@@ -1,0 +1,17 @@
+{
+  "name": "puptereer-sam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "puppeteer": "19.9.1",
+    "puppeteer-core": "^19.9.1"
+  }
+}
